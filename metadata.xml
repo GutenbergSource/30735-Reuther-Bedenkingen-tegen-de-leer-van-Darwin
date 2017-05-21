@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Bedenkingen tegen de leer van Darwin</dc:title>
+      <dc:creator>[Antoine Charles Reuther (1824–1900)]</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2009-12-22</dc:publisher>
+      <dc:date>2009-12-22</dc:date>
+      <dc:rights>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie bij dit eBoek of on-line op www.gutenberg.org.
+Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op www.pgdp.net van scans beschikbaar gesteld door de Rijksuniversiteit Groningen.
+Dit boek is anoniem verschenen, maar wordt toegeschreven aan Antoine Charles Reuther. Het is eerder ook wel toegeschreven aan Hartog Itzig Berlin (1791–1872).
+</dc:rights>
+      <dc:subject>Darwin, Charles, 1809-1882</dc:subject>
+      <dc:identifier>pg:30735</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
